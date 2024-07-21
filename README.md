@@ -84,6 +84,9 @@ license-generator [options]
 
 The generated license will be saved as `LICENSE` in your current directory.
 
+## To-Do / Future Features
+- [ ] **Interactive License Chooser**: Interactive questionnaire to help users choose the most appropriate license for their project? Not Sure.
+
 ## Available Licenses
 
 The License Generator supports various open-source licenses. Run the tool without arguments to see the list of available licenses.
